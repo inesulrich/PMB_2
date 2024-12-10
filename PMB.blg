@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: PMB.aux
+The style file: jphysicsB.bst
+Database file #1: report.bib
+Warning--empty booktitle in Boehm_OPT_2022
+Warning--empty publisher in Fichter_FWI_book_2011
+Warning--empty booktitle in Marty_SPIE_2021
+Warning--empty booktitle in Roy_RTM_2016
+Warning--empty booktitle in Wiskin_2020
+You've used 50 entries,
+            2796 wiz_defined-function locations,
+            963 strings with 14942 characters,
+and the built_in function-call counts, 265755 in all, are:
+= -- 43578
+> -- 3756
+< -- 4
++ -- 21287
+- -- 1146
+* -- 23577
+:= -- 52335
+add.period$ -- 50
+call.type$ -- 50
+change.case$ -- 650
+chr.to.int$ -- 50
+cite$ -- 55
+duplicate$ -- 789
+empty$ -- 1625
+format.name$ -- 1358
+if$ -- 47854
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 52
+newline$ -- 153
+num.names$ -- 500
+pop$ -- 156
+preamble$ -- 1
+purify$ -- 750
+quote$ -- 0
+skip$ -- 757
+stack$ -- 0
+substring$ -- 62530
+swap$ -- 170
+text.length$ -- 704
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 196
+warning$ -- 5
+while$ -- 1049
+width$ -- 0
+write$ -- 563
+(There were 5 warnings)
